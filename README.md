@@ -1,6 +1,8 @@
 
 # Makerindo Test
 
+Migrate first
+
 API endpoint
 - /api/login
     - email required
